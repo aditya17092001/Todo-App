@@ -3,7 +3,6 @@ import logo from '../images/logo.svg';
 import { InputBox } from '../components/InputBox';
 import { Button } from '../components/Buttons';
 import { BottomWarning } from '../components/BottomWarning';
-import { Topbar } from '../components/Topbar';
 
 export const Signup = () => {
     return (
